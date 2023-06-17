@@ -1,8 +1,7 @@
 # KSAelevator
 엘리베이터를 효율적으로 이용하고 싶은 크사인을 위한 프로젝트/ Project for KSAin who wants to use the elevator efficiently
 #### 시연 영상: https://youtube.com/shorts/tOiCna03Fco?feature=share
-#### 안드로이드 스튜디오에서 커밋에 오류가 발생하여 구글 드라이브에서 어플 파일 다운받아주시면 감사하겠습니다
-#### 다운로드 링크: https://drive.google.com/file/d/1aFUTPZow-whl_Y_pQPHIXmjgjLpnFjr6/view?usp=sharing
+#### 어플 링크: https://github.com/swparkannie/KSAElevator
 ## 프로젝트의 목적
 한과영에는 엘리베이터가 탐구관과 창조관, 두 건물에 각각 한대씩 설치되어 있습니다. 하지만 엘리베이터 수에 비해 이용하는 학생 수는 훨씬 많고, 특히 특정 시간대에 엘리베이터 이용자 수로 인하여 이동에 불편함을 겪는 학생이 많습니다. 이를 엘리베이터 탑승자 수, 각 층별 대기 학생수, 현재 층수, 엘리베이터 이동 방향 등의 정보를 제공하여 효율적인 엘리베이터 이용을 돕는 프로젝트입니다.
 ##  설치 방법
